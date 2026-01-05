@@ -1,1 +1,1 @@
-# Dive_Into_Deep_Learning
+# DIVE_INTO_DEEP_LEARNING
