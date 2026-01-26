@@ -37,3 +37,20 @@ $$
 \hat\beta=(X^\top X)^{-1}X^\top y
 $$
 does not exist.
+
+2.
+
+Some fixes:
+
+(1) Use the pseudoinverse.
+
+(2) Add regularization
+
+...
+
+For add a small amount of coordinate-wise independent Gaussian noise：
+
+It can bias the fitted model because the data matrix changed.
+
+3.
+
