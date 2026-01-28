@@ -77,3 +77,7 @@ Hence,
 $$
 \mathbb E[\tilde X^\top \tilde X] = X^\top X + n\sigma^2 I_d\
 $$
+
+4.
+
+The objective is not strongly convex (Hessian is only positive semidefinite), then we lose the nice linear convergence guarantees.
